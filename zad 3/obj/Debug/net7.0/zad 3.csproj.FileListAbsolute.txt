@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\bin\Debug\net7.0\zad 3.exe
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\bin\Debug\net7.0\zad 3.deps.json
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\bin\Debug\net7.0\zad 3.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\bin\Debug\net7.0\zad 3.dll
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\bin\Debug\net7.0\zad 3.pdb
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.dll
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\refint\zad 3.dll
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.pdb
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\zad 3.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\wzorceProjektowe\zad 3\obj\Debug\net7.0\ref\zad 3.dll
